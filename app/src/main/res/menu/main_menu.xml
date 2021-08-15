@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/osvezivanje"
+        android:title="Refresh">
+
+    </item>
+    <item
+        android:id="@+id/poziv"
+        android:title="Poziv broja centrale">
+
+    </item>
+
+    <item
+        android:id="@+id/uplatnica"
+        android:title="Uvid u uplatnicu">
+
+    </item>
+
+    <item
+        android:id="@+id/izlazak"
+        android:title="Izlazak iz aplikacije">
+
+    </item>
+</menu>
